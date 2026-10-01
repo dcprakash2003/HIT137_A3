@@ -41,7 +41,7 @@ Windows and macOS. On Linux, install it with `sudo apt install python3-tk`.
 | Reassembly and overlays (faint grid, selection border, green ticks, blue circles) | `ImageProcessor.assemble()` and the `draw_*` methods |
 | Error handling | Cancelled dialog, non-image or corrupt files, images too small, clicks outside the image, clicks after finishing, plus a global Tk error handler. Errors are shown in message boxes. |
 
-### Extra features (for D/HD)
+### Extra features
 
 - **Difficulty levels:** Easy (4/8/12 transformations), Normal (6/12/20, as in the brief), and Hard (8/15/24).
 - **Hard mode** adds a 4th transformation type (colour inversion) and a **time limit** (3, 6 or 10 minutes).
