@@ -27,7 +27,7 @@ Windows and macOS. On Linux, install it with `sudo apt install python3-tk`.
 | Solve | Instantly undoes every remaining transformation and clears moves and score |
 | New Scramble | Re-scrambles the same image with the current grid and difficulty |
 
-## Features mapped to the brief and rubric
+## Features
 
 | Requirement | Where |
 |---|---|
